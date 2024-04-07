@@ -1,0 +1,32 @@
+.container{
+    width:100%;
+    
+    text-align: center;
+}
+h1{
+    font-family: cursive;
+    color: brown;
+    font-size: 5rem;
+}
+p{
+    color: black;
+    font-size: 2rem;
+    margin: auto;
+}
+.dice1{
+    display: inline-block;
+    text-align: center;
+    padding: 40px;
+}
+.dice2{
+    display: inline-block;
+    text-align: center;
+    padding: 40px;
+}
+footer{
+    margin-top: 5%;
+    text-align: center;
+}
+body{
+    background-color: burlywood;
+}
